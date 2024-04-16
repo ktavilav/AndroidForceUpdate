@@ -29,7 +29,7 @@ class MainActivity : Activity() {
                 }
             }, SPLASH_TIME_OUT)
         } else {
-            Toast.makeText(this, "Debe actualizar", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Debe actualizar ", Toast.LENGTH_SHORT).show()
             // Redireccionar al usuario a la tienda de aplicaciones
             val appPackageName = packageName
             try {
