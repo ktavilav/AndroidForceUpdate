@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102832254167",
+    "project_id": "celtic-surface-416122",
+    "storage_bucket": "celtic-surface-416122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102832254167:android:9597b50b3664508e36d492",
+        "android_client_info": {
+          "package_name": "com.example.lanzardados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw45VCrz7c5-A9ahn_on6UFurqjdAcFTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
